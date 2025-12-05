@@ -1,0 +1,145 @@
+{
+    "lifetimeleang1": {
+        "customer-name": "User1",
+        "processor_id": "8FE8FBF800A0BF1",
+        "serial_number": "000000000",
+        "trial": false,
+        "billing-date": "2025-09-05",
+        "next-billing-date": "2025-09-05",
+        "universal-license": true,
+        "lifetime": true,
+        "valid": true
+    },
+    "vincenzo-lifetime": {
+        "customer-name": "Vincenzo",
+        "processor_id": "BFEBFBFF000406F1",
+        "serial_number": "Default string",
+        "trial": false,
+        "billing-date": "2025-12-05",
+        "next-billing-date": "2099-12-31",
+        "universal-license": false,
+        "lifetime": true,
+        "valid": true
+    },
+    "STARTER-FREE-2025": {
+        "customer-name": "Free User",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": true,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2025-12-31",
+        "universal-license": true,
+        "lifetime": false,
+        "valid": true
+    },
+    "PHALLA-ULTRA-001": {
+        "customer-name": "Phalla User 1",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": false,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2099-12-31",
+        "universal-license": true,
+        "lifetime": true,
+        "valid": true
+    },
+    "PHALLA-ULTRA-002": {
+        "customer-name": "Phalla User 2",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": false,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2099-12-31",
+        "universal-license": true,
+        "lifetime": true,
+        "valid": true
+    },
+    "PHALLA-ULTRA-003": {
+        "customer-name": "Phalla User 3",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": false,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2099-12-31",
+        "universal-license": true,
+        "lifetime": true,
+        "valid": true
+    },
+    "PHALLA-PREMIUM-001": {
+        "customer-name": "Premium User 1",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": false,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2026-01-01",
+        "universal-license": true,
+        "lifetime": false,
+        "valid": true
+    },
+    "PHALLA-PREMIUM-002": {
+        "customer-name": "Premium User 2",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": false,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2026-01-01",
+        "universal-license": true,
+        "lifetime": false,
+        "valid": true
+    },
+    "PHALLA-TRIAL-001": {
+        "customer-name": "Trial User 1",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": true,
+        "billing-date": "2025-12-01",
+        "next-billing-date": "2025-12-31",
+        "universal-license": true,
+        "lifetime": false,
+        "valid": true
+    },
+    "PHALLA-TRIAL-002": {
+        "customer-name": "Trial User 2",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": true,
+        "billing-date": "2025-12-01",
+        "next-billing-date": "2025-12-31",
+        "universal-license": true,
+        "lifetime": false,
+        "valid": true
+    },
+    "MEDIA-DOWNLOAD-VIP": {
+        "customer-name": "VIP Customer",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": false,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2099-12-31",
+        "universal-license": true,
+        "lifetime": true,
+        "valid": true
+    },
+    "SOCIAL-MASTER-KEY": {
+        "customer-name": "Master User",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": false,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2099-12-31",
+        "universal-license": true,
+        "lifetime": true,
+        "valid": true
+    },
+    "ADMIN-FULL-ACCESS": {
+        "customer-name": "Admin",
+        "processor_id": "ANY",
+        "serial_number": "ANY",
+        "trial": false,
+        "billing-date": "2025-01-01",
+        "next-billing-date": "2099-12-31",
+        "universal-license": true,
+        "lifetime": true,
+        "valid": true
+    }
+}
